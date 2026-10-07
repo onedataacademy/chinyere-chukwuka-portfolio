@@ -13,3 +13,5 @@ Static portfolio website for Chinyere Chukwuka.
 
 ## Deployment
 Static HTML/CSS/JS. No build step required. Cloudflare Pages output directory: `.`.
+
+Deployment refresh for Version 2
