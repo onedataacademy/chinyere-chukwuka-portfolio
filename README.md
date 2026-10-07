@@ -1,19 +1,15 @@
-# Chinyere Chukwuka Portfolio
+# Chinyere Chukwuka Portfolio — V2
 
-Static personal portfolio website for Chinyere Chukwuka.
+Static portfolio website for Chinyere Chukwuka.
 
-## Stack
-- HTML
-- CSS
-- Vanilla JavaScript
-- Cloudflare Pages compatible
+## V2 changes
+- Updated experience highlight to 8+ years.
+- Updated training impact to 6K+ professionals.
+- Added Data & Business Consultant positioning.
+- Replaced dashboard screenshots with six supplied branded project thumbnails.
+- Added concise project case studies and live/project links.
+- Added dedicated CV download section.
+- Preserved the established black, orange, cream and white colour system.
 
 ## Deployment
-Use Cloudflare Pages with:
-- Framework preset: None
-- Build command: leave blank (or `exit 0`)
-- Build output directory: `.`
-- Production branch: `main`
-
-## Contact form
-The contact form posts to FormSubmit and routes enquiries to `chinyerec@amdoranalytics.io`. FormSubmit may require one-time email activation on the first submission before delivery is enabled.
+Static HTML/CSS/JS. No build step required. Cloudflare Pages output directory: `.`.
